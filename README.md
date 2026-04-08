@@ -105,6 +105,11 @@ The original dataset contained 10,000 rows and 8 columns:
 2. Download Cafe_Sales_Report_Final.xlsx to view all 5 charts in Excel
 3. Open the Jupyter Notebook to follow the full cleaning code step by step
 
+| File | Description |
+|------|-------------|
+| Cafe_Sales_Final_Cleaned.xlsx | Fully cleaned dataset ready for analysis |
+| Cafe_Sales_Report_Final.xlsx | Excel workbook with all 5 charts and pivot tables |
+
 ---
 
 ## Author
